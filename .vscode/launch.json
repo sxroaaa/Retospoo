@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Genero",
+            "request": "launch",
+            "mainClass": "Genero",
+            "projectName": "Retospoo_846ee969"
+        },
+        {
+            "type": "java",
+            "name": "Launch RetoExito",
+            "request": "launch",
+            "mainClass": "RetoExito",
+            "projectName": "Retospoo_846ee969"
+        },
+        {
+            "type": "java",
+            "name": "Launch RetoFor",
+            "request": "launch",
+            "mainClass": "RetoFor",
+            "projectName": "Retospoo_846ee969"
+        },
+        {
+            "type": "java",
             "name": "Launch reto3",
             "request": "launch",
             "mainClass": "reto3",
