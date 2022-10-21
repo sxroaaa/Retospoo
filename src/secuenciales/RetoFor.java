@@ -1,3 +1,4 @@
+package secuenciales;
 import java.util.Scanner;
 public class RetoFor{
     public static void main(String[]args){
@@ -10,6 +11,8 @@ public class RetoFor{
        precioP=leer.nextInt();
        System.out.println("digite la cantidad del producto");
        Cantidad=leer.nextInt();
+       leer.close();
      }
+      
     }
 }

@@ -1,3 +1,4 @@
+package condicionales;
 import java.util.Scanner;
 public class Calculadora2 {
     /**

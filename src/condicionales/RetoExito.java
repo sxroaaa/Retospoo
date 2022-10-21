@@ -1,3 +1,4 @@
+package condicionales;
 import java.util.Scanner;
 
 public class RetoExito {
@@ -33,5 +34,6 @@ public class RetoExito {
            else{
             System.out.println("No pierdas mas minutos, adquiere ya tu telefonia movil");
            }
+           leer.close();
  }
 }

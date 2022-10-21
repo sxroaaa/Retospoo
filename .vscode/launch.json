@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch reto6",
+            "request": "launch",
+            "mainClass": "reto6",
+            "projectName": "Retospoo_d25f151a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ciclowhile",
+            "request": "launch",
+            "mainClass": "Ciclowhile",
+            "projectName": "Retospoo_d25f151a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Notas",
+            "request": "launch",
+            "mainClass": "Notas",
+            "projectName": "Retospoo_d25f151a"
+        },
+        {
+            "type": "java",
             "name": "Launch Genero",
             "request": "launch",
             "mainClass": "Genero",

@@ -1,3 +1,4 @@
+package condicionales;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -20,6 +21,7 @@ public class reto3 {
          else{
             System.out.println("caracter no permitido");
          }
+         leer.close();
 
         
  }
