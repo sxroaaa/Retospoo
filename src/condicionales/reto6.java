@@ -1,4 +1,4 @@
-package secuenciales;
+package condicionales;
 import java.util.Random;
 import java.util.Scanner;
 public class reto6 {

@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ciclowhile",
+            "request": "launch",
+            "mainClass": "secuenciales.Ciclowhile",
+            "projectName": "Retospoo_846ee969"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto4",
+            "request": "launch",
+            "mainClass": "condicionales.reto4",
+            "projectName": "Retospoo_846ee969"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto2",
+            "request": "launch",
+            "mainClass": "condicionales.reto2",
+            "projectName": "Retospoo_846ee969"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto1",
+            "request": "launch",
+            "mainClass": "condicionales.reto1",
+            "projectName": "Retospoo_846ee969"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto3",
+            "request": "launch",
+            "mainClass": "condicionales.reto3",
+            "projectName": "Retospoo_846ee969"
+        },
+        {
+            "type": "java",
+            "name": "Launch Notas",
+            "request": "launch",
+            "mainClass": "condicionales.Notas",
+            "projectName": "Retospoo_846ee969"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto5",
+            "request": "launch",
+            "mainClass": "secuenciales.Reto5",
+            "projectName": "Retospoo_846ee969"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto6",
+            "request": "launch",
+            "mainClass": "secuenciales.reto6",
+            "projectName": "Retospoo_846ee969"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto7",
+            "request": "launch",
+            "mainClass": "condicionales.Reto7",
+            "projectName": "Retospoo_846ee969"
+        },
+        {
+            "type": "java",
             "name": "Launch reto6",
             "request": "launch",
             "mainClass": "reto6",

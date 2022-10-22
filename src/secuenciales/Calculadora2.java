@@ -1,4 +1,4 @@
-package condicionales;
+package secuenciales;
 import java.util.Scanner;
 public class Calculadora2 {
     /**

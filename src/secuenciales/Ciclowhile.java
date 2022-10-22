@@ -1,4 +1,4 @@
-package condicionales;
+package secuenciales;
 import java.util.Scanner;
 public class Ciclowhile {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class Ciclowhile {
        while(eleccion.equals("si")){
          System.out.println("Escriba el valor de su gasto: ");
          gasto=leer.nextInt();
-         gasto=gasto++;
+         gastoc=gastoc+1;
          presupuesto=presupuesto-gasto;
          System.out.println("su gasto ha sido de " +gasto+ " y le queda un presupuesto de " +presupuesto);
 
@@ -16,7 +16,8 @@ public class Ciclowhile {
 
          System.out.println("escriba si quiere agregar otro gasto");
             eleccion=leer.nextLine();
-        if ( 3>gasto || presupuesto<0){
+
+        if ( gasto <=3 || presupuesto<10000){
             System.out.println("no puede seguir ");
             
          }
